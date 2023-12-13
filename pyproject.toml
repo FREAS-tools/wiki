@@ -1,0 +1,15 @@
+[tool.poetry]
+name = "freas-wiki"
+version = "0.1.0"
+description = ""
+authors = ["LukasD <410034@mail.muni.cz>"]
+readme = "README.md"
+
+[tool.poetry.dependencies]
+python = "^3.10"
+mkdocs-material = "^9.5.2"
+
+
+[build-system]
+requires = ["poetry-core"]
+build-backend = "poetry.core.masonry.api"
