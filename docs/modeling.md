@@ -1,5 +1,6 @@
 # Modeling
 
+The toolbox on the left contains BPMN and BPMN4FRSS elements that can be placed into the canvas. Then, the elements can be modified using a contextual pad (available when selected) or the properties panel on the right. Connections between the elements can be drawn using the tools from the contextual pad. Properties of the element can be edited using the properties panel.
 
 ## Modeling Guidelines
 * Models can be exported as *.bpmn and *.svg files.

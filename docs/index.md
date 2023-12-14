@@ -4,9 +4,15 @@ FREAS is a modeling and analysis tool for forensic-ready software systems. The t
 
 As a result, the tool allows users to inspect the possible model insufficiencies and offers hints to remedy the issue.
 
+The tool is available on: https://freas-tools.dyn.cloud.e-infra.cz/
+
 ## Modeling
 
+FREAS allows for the graphical modelling of BPMN4FRSS diagrams, which can be exported as models. These models can then be fed into the analysis module.
 
+The toolbox on the left contains BPMN and BPMN4FRSS elements that can be placed into the canvas. Then, the elements can be modified using a contextual pad (available when selected) or the properties panel on the right. Connections between the elements can be drawn using the tools from the contextual pad. Properties of the element can be edited using the properties panel.
+
+Please see the [Modeling](modelling.md) for further details on the tool and [Model Creation](BPMN4FRSS/model_creation.md) for details on BPMN4FRSS elements and semantics.
 
 ## Analysis
 
@@ -17,3 +23,5 @@ Three types of analysis are available:
 * Semantic Rules Analysis
 * Semantic Hints Analysis
 * Evidence Quality Analysis
+
+Please see the [Analysis](analysis.md) for further details on the available analyses.
