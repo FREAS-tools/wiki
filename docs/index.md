@@ -4,7 +4,7 @@ FREAS is a modeling and analysis tool for forensic-ready software systems. The t
 
 As a result, the tool allows users to inspect the possible model insufficiencies and offers hints to remedy the issue.
 
-The tool is available on: [https://freas-tools.dyn.cloud.e-infra.cz/](https://freas-tools.dyn.cloud.e-infra.cz/)
+The tool is available on: [https://freas-tools.dyn.cloud.e-infra.cz/](https://freas-tools.dyn.cloud.e-infra.cz/). However, note that the tool is still under development and might be unstable. 
 
 ## Modeling
 
