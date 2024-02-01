@@ -4,7 +4,13 @@ FREAS is a modeling and analysis tool for forensic-ready software systems. The t
 
 As a result, the tool allows users to inspect the possible model insufficiencies and offers hints to remedy the issue.
 
-The tool is available on: [https://freas-tools.dyn.cloud.e-infra.cz/](https://freas-tools.dyn.cloud.e-infra.cz/). However, note that the tool is still under development and might be unstable. 
+The tool is available on: [https://freas-tools.dyn.cloud.e-infra.cz/](https://freas-tools.dyn.cloud.e-infra.cz/). However, note that the tool is still under development and might be unstable.
+
+FREAS can be deployed locally using [docker compose](https://raw.githubusercontent.com/FREAS-tools/freas-demo/main/docker-compose.yml).
+
+## Example
+
+Example models are available on [GitHub](https://github.com/FREAS-tools/freas-demo/).
 
 ## Modeling
 
