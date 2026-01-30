@@ -4,14 +4,14 @@ The work was supported by the Grant Agency of Masaryk University (GAMU) project 
 
 <div style="display: flex; justify-content: space-between; align-items: center;">
   <figure style="text-align: center; width: 32%; margin: 0;">
-    <img src="img/logos/MUNI_Logo.png" alt="MUNI Logo" style="width: 100%;">
+    <img src="../img/logos/MUNI_Logo.png" alt="MUNI Logo" style="width: 100%;">
   </figure>
 
   <figure style="text-align: center; width: 32%; margin: 0;">
-    <img src="img/logos/CHESS_Logo.png" alt="CHESS Logo" style="width: 100%;">
+    <img src="../img/logos/CHESS_Logo.png" alt="CHESS Logo" style="width: 100%;">
   </figure>
 
   <figure style="text-align: center; width: 32%; margin: 0;">
-    <img src="img/logos/UT_Logo.png" alt="UT Logo" style="width: 100%;">
+    <img src="../img/logos/UT_Logo.png" alt="UT Logo" style="width: 100%;">
   </figure>
 </div>
